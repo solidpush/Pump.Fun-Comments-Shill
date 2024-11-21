@@ -40,7 +40,7 @@ class PumpFun:
 if __name__ == "__main__":
     print("Welcome to Pump.Fun Comments & Shill Tool!")
     print("To get started, create threads and shill your token effectively.")
-    print("For more information or inquiries, contact me on Telegram at t.me/fjerijkk")
+    print("For more information or inquiries, contact me on Telegram at t.me/mxdotsol")
     
     # Example usage
     tool = PumpFun("YourTokenName")
